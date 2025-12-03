@@ -3,8 +3,6 @@
 > **Examen Final - Desarrollo de Videojuegos**
 > Un plataformas 2D retro de aventura y restauración ecológica.
 
-![Banner del Juego](Assets/Art_Final/Fondos/Fondo_Playa.png)
-*(Nota: Reemplaza esta ruta con una captura real de tu juego si es posible)*
 
 ## 📖 Descripción
 
