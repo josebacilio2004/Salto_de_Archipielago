@@ -1,0 +1,713 @@
+fileFormatVersion: 2
+guid: f9f7dd5efedf0224da0f519fbdfcf3c5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4031248988629909150
+    second: Playa1_0
+  - first:
+      213: 7240332871300503569
+    second: Playa1_1
+  - first:
+      213: -2206760204727110699
+    second: Playa1_2
+  - first:
+      213: -5158541050055327744
+    second: Playa1_3
+  - first:
+      213: -8550854300391527136
+    second: Playa1_4
+  - first:
+      213: -4946378326933122893
+    second: Playa1_5
+  - first:
+      213: 8175099773110074604
+    second: Playa1_6
+  - first:
+      213: 4791549059698859843
+    second: Playa1_7
+  - first:
+      213: 772332133787373297
+    second: Playa1_8
+  - first:
+      213: -5177786093345358289
+    second: Playa1_9
+  - first:
+      213: -23837795184481857
+    second: Playa1_10
+  - first:
+      213: -7072575940449500816
+    second: Playa1_11
+  - first:
+      213: -1818619452059780377
+    second: Playa1_12
+  - first:
+      213: -6177315469832645781
+    second: Playa1_13
+  - first:
+      213: 4368149860612583402
+    second: Playa1_14
+  - first:
+      213: 1588115382594149102
+    second: Playa1_15
+  - first:
+      213: -4980806914327016796
+    second: Playa1_16
+  - first:
+      213: -6590622259959808951
+    second: Playa1_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Playa1_0
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 824
+        width: 1017
+        height: 239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 4}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 261cf8f37602e08c0800000000000000
+      internalID: -4031248988629909150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Playa1_1
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 874
+        width: 146
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1185371b264da7460800000000000000
+      internalID: 7240332871300503569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Playa1_2
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 639
+        width: 240
+        height: 403
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d3b5c429430061e0800000000000000
+      internalID: -2206760204727110699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Playa1_3
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 639
+        width: 252
+        height: 395
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0008e200f3e2968b0800000000000000
+      internalID: -5158541050055327744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Playa1_4
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 577
+        width: 502
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02daa037153455980800000000000000
+      internalID: -8550854300391527136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Playa1_5
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 640
+        width: 101
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b0d5726e1fea5bb0800000000000000
+      internalID: -4946378326933122893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Playa1_6
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 640
+        width: 142
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cec3a9b1ee9c37170800000000000000
+      internalID: 8175099773110074604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Playa1_7
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 644
+        width: 154
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34f153bab700f7240800000000000000
+      internalID: 4791549059698859843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Playa1_8
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 560
+        width: 64
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fe0403dbffd7ba00800000000000000
+      internalID: 772332133787373297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Playa1_9
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 494
+        width: 168
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2e313f2bfec428b0800000000000000
+      internalID: -5177786093345358289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Playa1_10
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 309
+        width: 501
+        height: 232
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb9eccdc6af4baff0800000000000000
+      internalID: -23837795184481857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Playa1_11
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 410
+        width: 115
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 071888e77a929dd90800000000000000
+      internalID: -7072575940449500816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Playa1_12
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 226
+        width: 224
+        height: 314
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ea7c5a6e37f2c6e0800000000000000
+      internalID: -1818619452059780377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Playa1_13
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 150
+        width: 61
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b63991b1f44c54aa0800000000000000
+      internalID: -6177315469832645781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Playa1_14
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 161
+        width: 63
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aef2c7f9729ce9c30800000000000000
+      internalID: 4368149860612583402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Playa1_15
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 66
+        width: 123
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eea9bd9b68e1a0610800000000000000
+      internalID: 1588115382594149102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Playa1_16
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 73
+        width: 163
+        height: 281
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aa8ab8308e90eab0800000000000000
+      internalID: -4980806914327016796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Playa1_17
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 65
+        width: 63
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94c305229f76984a0800000000000000
+      internalID: -6590622259959808951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Playa1_18
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 574
+        width: 499
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dbdd7b7d273af64da93a242ba4db1c2
+      internalID: 960828652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Playa1_19
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 311
+        width: 499
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caaa10a7656493c4782a1ecddf052c54
+      internalID: -1796939172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Playa1_20
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 64
+        width: 242
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c069f686e14254085a5892d4b012df
+      internalID: 1523849600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Playa1_21
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 62
+        width: 245
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a392d09fb53edad49af1509773326fa3
+      internalID: 1521791163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Playa1_22
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 64
+        width: 496
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85568acc1c77ba049ab717aa1ad0b5ac
+      internalID: 747046269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ff253f8df6274934ba3180ad39540df3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Playa1_0: -4031248988629909150
+      Playa1_1: 7240332871300503569
+      Playa1_10: -23837795184481857
+      Playa1_11: -7072575940449500816
+      Playa1_12: -1818619452059780377
+      Playa1_13: -6177315469832645781
+      Playa1_14: 4368149860612583402
+      Playa1_15: 1588115382594149102
+      Playa1_16: -4980806914327016796
+      Playa1_17: -6590622259959808951
+      Playa1_18: 960828652
+      Playa1_19: -1796939172
+      Playa1_2: -2206760204727110699
+      Playa1_20: 1523849600
+      Playa1_21: 1521791163
+      Playa1_22: 747046269
+      Playa1_3: -5158541050055327744
+      Playa1_4: -8550854300391527136
+      Playa1_5: -4946378326933122893
+      Playa1_6: 8175099773110074604
+      Playa1_7: 4791549059698859843
+      Playa1_8: 772332133787373297
+      Playa1_9: -5177786093345358289
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

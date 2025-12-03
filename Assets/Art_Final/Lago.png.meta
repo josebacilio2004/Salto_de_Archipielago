@@ -1,0 +1,1145 @@
+fileFormatVersion: 2
+guid: 398b7ff4e85646943b4428bdf60cf5ef
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7926048334159999473
+    second: Lago_0
+  - first:
+      213: 1815853677526000229
+    second: Lago_1
+  - first:
+      213: 8379964097240643935
+    second: Lago_2
+  - first:
+      213: -5542106403022548497
+    second: Lago_3
+  - first:
+      213: 674205244496316658
+    second: Lago_4
+  - first:
+      213: -2334628087229458849
+    second: Lago_5
+  - first:
+      213: 2974477619729459557
+    second: Lago_6
+  - first:
+      213: -6375446723015843145
+    second: Lago_7
+  - first:
+      213: 2724273726535851038
+    second: Lago_8
+  - first:
+      213: 1133807004285795351
+    second: Lago_9
+  - first:
+      213: -6334747123670454990
+    second: Lago_10
+  - first:
+      213: 7234993249974906009
+    second: Lago_11
+  - first:
+      213: 2472759021024523368
+    second: Lago_12
+  - first:
+      213: -5194150503377867978
+    second: Lago_13
+  - first:
+      213: -5368399911776569780
+    second: Lago_14
+  - first:
+      213: 5541430272020814950
+    second: Lago_15
+  - first:
+      213: 2755931311036885558
+    second: Lago_16
+  - first:
+      213: 5731731701068088710
+    second: Lago_17
+  - first:
+      213: 4912331948843994577
+    second: Lago_18
+  - first:
+      213: 3057276546887401791
+    second: Lago_19
+  - first:
+      213: -1906016123800460314
+    second: Lago_20
+  - first:
+      213: 3872561971192154315
+    second: Lago_21
+  - first:
+      213: -5439325146677808524
+    second: Lago_22
+  - first:
+      213: -8210285550294262405
+    second: Lago_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lago_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 817
+        width: 242
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f1fe2647fafefd60800000000000000
+      internalID: 7926048334159999473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lago_1
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 940
+        width: 284
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56226058c45333910800000000000000
+      internalID: 1815853677526000229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lago_2
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 818
+        width: 84
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f593e8e82fc9b4470800000000000000
+      internalID: 8379964097240643935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lago_3
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 583
+        width: 471
+        height: 469
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe15c6cf69b7613b0800000000000000
+      internalID: -5542106403022548497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lago_4
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 818
+        width: 248
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f888e709124b5900800000000000000
+      internalID: 674205244496316658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lago_5
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 842
+        width: 126
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f56d902cf1cb99fd0800000000000000
+      internalID: -2334628087229458849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lago_6
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 701
+        width: 95
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 569e25cb2a7774920800000000000000
+      internalID: 2974477619729459557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lago_7
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 688
+        width: 127
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b26636ebfcd587a0800000000000000
+      internalID: -6375446723015843145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lago_8
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 701
+        width: 51
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1c591d35809ec520800000000000000
+      internalID: 2724273726535851038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lago_9
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 559
+        width: 128
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71cfd4696771cbf00800000000000000
+      internalID: 1133807004285795351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lago_10
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 559
+        width: 113
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23de1bfcd057618a0800000000000000
+      internalID: -6334747123670454990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lago_11
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 559
+        width: 95
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c6a19370cd76460800000000000000
+      internalID: 7234993249974906009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lago_12
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 287
+        width: 251
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8643f477a31015220800000000000000
+      internalID: 2472759021024523368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lago_13
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 410
+        width: 247
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63bee3013abaae7b0800000000000000
+      internalID: -5194150503377867978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lago_14
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 411
+        width: 126
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c46b15629bc9f75b0800000000000000
+      internalID: -5368399911776569780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lago_15
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 286
+        width: 254
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66c956ff87d17ec40800000000000000
+      internalID: 5541430272020814950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lago_16
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 411
+        width: 92
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63aeab30de80f3620800000000000000
+      internalID: 2755931311036885558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lago_17
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 286
+        width: 226
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68542063d933b8f40800000000000000
+      internalID: 5731731701068088710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lago_18
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 314
+        width: 120
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd06ad71eb1c2440800000000000000
+      internalID: 4912331948843994577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lago_19
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 290
+        width: 95
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f314b5d32d0ad6a20800000000000000
+      internalID: 3057276546887401791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lago_20
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 27
+        width: 242
+        height: 259
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e3e4b41f687c85e0800000000000000
+      internalID: -1906016123800460314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lago_21
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 28
+        width: 250
+        height: 259
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc84897589a1eb530800000000000000
+      internalID: 3872561971192154315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lago_22
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 31
+        width: 125
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4727b6e0992a384b0800000000000000
+      internalID: -5439325146677808524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lago_23
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 31
+        width: 126
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7d103ebac43f0e80800000000000000
+      internalID: -8210285550294262405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lago_24
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 821
+        width: 235
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b82c226a3339b6b48897317ba3068ec6
+      internalID: -374326770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lago_25
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 824
+        width: 235
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d01e53ecb30dec40989a4f85acccdcf
+      internalID: 308206518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lago_26
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 824
+        width: 240
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a81d0f025ab751f40840d26c1b01f70b
+      internalID: -49953778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lago_27
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 944
+        width: 186
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b966b2f528bf2419c60b2dc008264d
+      internalID: 882117659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lago_28
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 626
+        width: 96
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 151c7157fd35b1942a3c1e625ceb4631
+      internalID: 579434077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lago_29
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 560
+        width: 116
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7dc3982ea0b56f45b13a270a2a91f3a
+      internalID: 37268278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lago_30
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 692
+        width: 115
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a865c48b2953f44866d29127f63352
+      internalID: -1094086779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lago_31
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 292
+        width: 243
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65c5298dca14a144aba1eb7dadb7068
+      internalID: -1064848330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lago_32
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 34
+        width: 240
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4678d2336f95d814580a4ab401f258d5
+      internalID: -1842358429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lago_33
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 36
+        width: 240
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eed942ea5da5f4408d9b36e95d23bc8
+      internalID: 1640591547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lago_34
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 26
+        width: 244
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5bfd2d49c7137941a7451cf9d32ce5f
+      internalID: 1816735274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lago_35
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 563
+        width: 238
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a14848632e7b6804a89953c90b6433fb
+      internalID: 551071106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lago_36
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 563
+        width: 237
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c0d9f7b72f4e6a47b18382c2ac3430f
+      internalID: -886959959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lago_37
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 567
+        width: 235
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b3edf8267d0d234d95f1960b9b34ad6
+      internalID: -684787376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lago_38
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 570
+        width: 113
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57bc7071888991d4a9b7bd5673c5f959
+      internalID: 1100178692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lago_39
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 690
+        width: 120
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aabf74324e0ec8046a230ad0a4789fe7
+      internalID: 607355202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lago_40
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 565
+        width: 118
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e64f363b4f91e074a83a235905222b95
+      internalID: -820660000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f270a5ce494a3b04a98db34dd9e849d2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Lago_0: 7926048334159999473
+      Lago_1: 1815853677526000229
+      Lago_10: -6334747123670454990
+      Lago_11: 7234993249974906009
+      Lago_12: 2472759021024523368
+      Lago_13: -5194150503377867978
+      Lago_14: -5368399911776569780
+      Lago_15: 5541430272020814950
+      Lago_16: 2755931311036885558
+      Lago_17: 5731731701068088710
+      Lago_18: 4912331948843994577
+      Lago_19: 3057276546887401791
+      Lago_2: 8379964097240643935
+      Lago_20: -1906016123800460314
+      Lago_21: 3872561971192154315
+      Lago_22: -5439325146677808524
+      Lago_23: -8210285550294262405
+      Lago_24: -374326770
+      Lago_25: 308206518
+      Lago_26: -49953778
+      Lago_27: 882117659
+      Lago_28: 579434077
+      Lago_29: 37268278
+      Lago_3: -5542106403022548497
+      Lago_30: -1094086779
+      Lago_31: -1064848330
+      Lago_32: -1842358429
+      Lago_33: 1640591547
+      Lago_34: 1816735274
+      Lago_35: 551071106
+      Lago_36: -886959959
+      Lago_37: -684787376
+      Lago_38: 1100178692
+      Lago_39: 607355202
+      Lago_4: 674205244496316658
+      Lago_40: -820660000
+      Lago_5: -2334628087229458849
+      Lago_6: 2974477619729459557
+      Lago_7: -6375446723015843145
+      Lago_8: 2724273726535851038
+      Lago_9: 1133807004285795351
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

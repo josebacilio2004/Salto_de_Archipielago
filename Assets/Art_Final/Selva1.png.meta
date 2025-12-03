@@ -1,0 +1,517 @@
+fileFormatVersion: 2
+guid: 896a166a41e701e4481f3ced634c83d6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2231052487301217170
+    second: Selva1_0
+  - first:
+      213: -7107860229867651650
+    second: Selva1_1
+  - first:
+      213: 3164695287156883224
+    second: Selva1_2
+  - first:
+      213: 6707342254313317799
+    second: Selva1_3
+  - first:
+      213: -3748908266552348931
+    second: Selva1_4
+  - first:
+      213: -4802938016932991118
+    second: Selva1_5
+  - first:
+      213: 4571473903905249955
+    second: Selva1_6
+  - first:
+      213: -5789930246022148763
+    second: Selva1_7
+  - first:
+      213: 5982660624336292587
+    second: Selva1_8
+  - first:
+      213: -1365738475721921379
+    second: Selva1_9
+  - first:
+      213: 6922676647173993239
+    second: Selva1_10
+  - first:
+      213: -4046791435352943327
+    second: Selva1_11
+  - first:
+      213: -6883482520052801226
+    second: Selva1_12
+  - first:
+      213: -2919298640639644824
+    second: Selva1_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Selva1_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 660
+        width: 503
+        height: 379
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29b37d4aa6a46fe10800000000000000
+      internalID: 2231052487301217170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Selva1_1
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 716
+        width: 47
+        height: 313
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebdbc9da7cecb5d90800000000000000
+      internalID: -7107860229867651650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Selva1_2
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 686
+        width: 222
+        height: 343
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81fb65da8914beb20800000000000000
+      internalID: 3164695287156883224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Selva1_3
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 923
+        width: 305
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a520574e34451d50800000000000000
+      internalID: 6707342254313317799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Selva1_4
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 889
+        width: 252
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfe2f9c4bc339fbc0800000000000000
+      internalID: -3748908266552348931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Selva1_5
+      rect:
+        serializedVersion: 2
+        x: 1612
+        y: 907
+        width: 331
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27f6d761259885db0800000000000000
+      internalID: -4802938016932991118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Selva1_6
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 664
+        width: 708
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aa9d3e7b43217f30800000000000000
+      internalID: 4571473903905249955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Selva1_7
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 398
+        width: 420
+        height: 211
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56d4f8b1e1906afa0800000000000000
+      internalID: -5789930246022148763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Selva1_8
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 440
+        width: 303
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bea084de32ea60350800000000000000
+      internalID: 5982660624336292587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Selva1_9
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 481
+        width: 329
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ce282a71ceb0de0800000000000000
+      internalID: -1365738475721921379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Selva1_10
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 481
+        width: 122
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 713b2b19bb9421060800000000000000
+      internalID: 6922676647173993239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Selva1_11
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 0
+        width: 808
+        height: 392
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 125d1bf51a8e6d7c0800000000000000
+      internalID: -4046791435352943327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Selva1_12
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 332
+        width: 369
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63164a64e15f870a0800000000000000
+      internalID: -6883482520052801226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Selva1_13
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 0
+        width: 732
+        height: 289
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86ba46b7a519c77d0800000000000000
+      internalID: -2919298640639644824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Selva1_14
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 904
+        width: 120
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b76d1a5da9f5440429ee7d7ed282a843
+      internalID: -1119860998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 00aa07ed7480e1d46afdcf9fdafe4004
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Selva1_0: 2231052487301217170
+      Selva1_1: -7107860229867651650
+      Selva1_10: 6922676647173993239
+      Selva1_11: -4046791435352943327
+      Selva1_12: -6883482520052801226
+      Selva1_13: -2919298640639644824
+      Selva1_14: -1119860998
+      Selva1_2: 3164695287156883224
+      Selva1_3: 6707342254313317799
+      Selva1_4: -3748908266552348931
+      Selva1_5: -4802938016932991118
+      Selva1_6: 4571473903905249955
+      Selva1_7: -5789930246022148763
+      Selva1_8: 5982660624336292587
+      Selva1_9: -1365738475721921379
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
